@@ -1,1 +1,8 @@
- Git & GitHub 
+<p align="center"> # 👨‍🎓 Git & GitHub 👩‍🎓<br>
+ 
+ Explicando o Git;<br>
+ Explicando o Github;<br>
+ 
+ Diversos comandos passo-a-passo;<br>
+ 
+ <p align="center"># ☕🤓💻 _Follow @Bruno_Sthill
